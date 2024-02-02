@@ -17,7 +17,7 @@ function App() {
         >
           Learn React
         </a>
-        <div>Qwerty check 2222 teper 3</div>
+        <div>Qwerty check 2222 teper 34</div>
       </header>
     </div>
   );
