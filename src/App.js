@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <div>Qwerty check</div>
       </header>
     </div>
   );
