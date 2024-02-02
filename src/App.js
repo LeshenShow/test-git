@@ -17,7 +17,7 @@ function App() {
         >
           Learn React
         </a>
-        <div>Qwerty check</div>
+        <div>Qwerty check 2222</div>
       </header>
     </div>
   );
